@@ -6,9 +6,13 @@ By Jay Cho (jay.cho@lamresearch.com)
 Lastly Updated on : 11/09/2015 
 Latest Version: 1.1
 
-For the most recent version: https://github.com/chojay/LamProductivity
+For the most recent version visit: https://github.com/chojay/LamProductivity
 
 Tested on Windows 7 and Quartz PCI Version 9
+
+##Instruction
+Download/Open .zip file and run the .exe file attached. 
+The commands listed below should work automatically:
 
 Version 1.1
 Available Commands (As of 11/09/2015) : 
