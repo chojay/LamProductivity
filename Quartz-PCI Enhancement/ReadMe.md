@@ -5,6 +5,7 @@ By Jay Cho (jay.cho@lamresearch.com)
 
 Lastly Updated on : 11/09/2015 
 Latest Version: 1.1
+
 For the most recent version: https://github.com/chojay/LamProductivity
 
 Tested on Windows 7 and Quartz PCI Version 9
