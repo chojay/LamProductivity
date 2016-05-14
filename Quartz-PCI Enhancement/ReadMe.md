@@ -1,5 +1,5 @@
 #Quartz-PCI Interface Enhancement
-##A standalone .exe file to allow mouse usage on Quartz-PCI Software 
+##A standalone .exe file to allow better keyboard & mouse usage on Quartz-PCI Software
 
 By Jay Cho (jay.cho@lamresearch.com)
 
@@ -14,7 +14,8 @@ Tested on Windows 7 and Quartz PCI Version 9
 Download/Open .zip file and run the .exe file attached. 
 The commands listed below should work automatically:
 
-Version 1.1
+*Version 1.1*
+
 Available Commands (As of 11/09/2015) : 
 
  * ↑ or WheelUp : Scroll Up 
@@ -32,7 +33,8 @@ Available Commands (As of 11/09/2015) :
 
  * ? : Help / Show Available Commands Again
 
-Version 1.0
+*Version 1.0*
+
 Available Commands (As of 11/02/2015) : 
 
  * ↑ or WheelUp : Scroll Up 
@@ -48,7 +50,8 @@ Available Commands (As of 11/02/2015) :
  * ? : Help / Show Available Commands Again
 
 
-Version 1.0 Beta
+*Version 1.0 Beta*
+
 Available Commands (As of 10/31/2015) : 
 
  * ↑ or WheelUp : Scroll Up 
